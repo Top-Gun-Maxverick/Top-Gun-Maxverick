@@ -35,6 +35,14 @@ Previously implemented a Quantum Convolutional Neural Network for Efficient Imag
 - Unity Gamedev - *Learning C#*
 - IBM Quantum Challenge Fall 2021
 
+### Technology I use
+
+![VSCode](https://img.shields.io/static/v1?label=VSCode&message=2021&style=for-the-badge&color=1FC0A7&logo=visual-studio-code)
+![IntelliJ](https://img.shields.io/static/v1?label=IntelliJ&message=2021.2.3&style=for-the-badge&color=000000&logo=intellij-idea)
+![CLion](https://img.shields.io/static/v1?label=CLion&message=2021.2.3&style=for-the-badge&color=000000&logo=clion)
+![PyCharm](https://img.shields.io/static/v1?label=PyCharm&message=2021.2.3&style=for-the-badge&color=000000&logo=pycharm)
+![Github](https://img.shields.io/static/v1?label=GitHub&message=WontonSoup914&color=181717&style=for-the-badge&logo=github)
+
 ---
 
 [![WontonSoup914's GitHub stats](https://github-readme-stats.vercel.app/api?username=WontonSoup914&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
