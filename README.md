@@ -41,6 +41,7 @@ Previously implemented a Quantum Convolutional Neural Network for Efficient Imag
 ![IntelliJ](https://img.shields.io/static/v1?label=IntelliJ&message=2021.2.3&style=for-the-badge&color=000000&logo=intellij-idea)
 ![CLion](https://img.shields.io/static/v1?label=CLion&message=2021.2.3&style=for-the-badge&color=000000&logo=clion)
 ![PyCharm](https://img.shields.io/static/v1?label=PyCharm&message=2021.2.3&style=for-the-badge&color=000000&logo=pycharm)
+![XCode](https://img.shields.io/static/v1?label=XCode&message=IDK&style=for-the-badge&color=000000&logo=xcode)
 ![Github](https://img.shields.io/static/v1?label=GitHub&message=WontonSoup914&color=181717&style=for-the-badge&logo=github)
 
 ---
