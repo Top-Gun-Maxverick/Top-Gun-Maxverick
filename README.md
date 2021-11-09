@@ -1,7 +1,8 @@
 # HELLO THERE! 👋
 ### I'm Max / \[PNGNS\] Marekos1111
 
-> #### Programmer, Pianist, Pro Tanki Player, Procrastinator.
+> #### Programmer, Pianist, Pro Tanki Player, Procrastinator, Prelude Student.
+> **TS Clan:** @Penguins \[PNGNS\]
 
 ### More Detailed About Me
 Innovate Alumni at [The Knowledge Society](https://tks.world), Vancouver 2020-2021.  
@@ -35,6 +36,8 @@ Previously implemented a Quantum Convolutional Neural Network for Efficient Imag
 - Quantum Generative Adversarial Neural Networks - [`QWGAN-GP`](https://github.com/PNGNS-Marekos1111/QGAN)
 - Unity Gamedev - *Learning C#*
 - IBM Quantum Challenge Fall 2021 - [`IQC-Fall-2021`](https://github.com/PNGNS-Marekos1111/IQC-Fall-2021)
+- Tanki Online Container Simulator - [`ContainerSim`](https://github.com/PNGNS-Marekos1111/PNGNS-Marekos1111)
+- CCC Practice for F2022
 
 ### Technology I use
 
@@ -44,9 +47,10 @@ Previously implemented a Quantum Convolutional Neural Network for Efficient Imag
 ![PyCharm](https://img.shields.io/static/v1?label=PyCharm&message=2021.2.3&style=for-the-badge&color=000000&logo=pycharm)
 ![XCode](https://img.shields.io/static/v1?label=XCode&message=IDK&style=for-the-badge&color=000000&logo=xcode)
 ![Github](https://img.shields.io/static/v1?label=GitHub&message=PNGNS-Marekos1111&color=181717&style=for-the-badge&logo=github)
+![Unity](https://img.shields.io/static/v1?label=Unity&message=Unity&color=181717&style=for-the-badge&logo=unity)
 
 ---
 
-[![WontonSoup914's GitHub stats](https://github-readme-stats.vercel.app/api?username=PNGNS-Marekos1111&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![PNGNS-Marekos1111's GitHub stats](https://github-readme-stats.vercel.app/api?username=PNGNS-Marekos1111&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PNGNS-Marekos1111&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PNGNS-Marekos1111&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
