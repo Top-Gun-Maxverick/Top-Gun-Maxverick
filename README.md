@@ -52,7 +52,6 @@ Previously implemented a Quantum Convolutional Neural Network for Efficient Imag
 ---
 
 [![PNGNS-Marekos1111's GitHub stats](https://github-readme-stats.vercel.app/api?username=PNGNS-Marekos1111&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PNGNS-Marekos1111&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 <html>
