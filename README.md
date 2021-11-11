@@ -33,7 +33,7 @@ Previously implemented a Quantum Convolutional Neural Network for Efficient Imag
 
 ### Current Projects
 - Personal Website Development - *In Progress*
-- Quantum Generative Adversarial Neural Networks - [`QWGAN-GP`](https://github.com/PNGNS-Marekos1111/QGAN)
+- Quantum Generative Adversarial Neural Networks - [`QWGAN-GP`](https://github.com/dssikdar/asdrp-QGAN)
 - Unity Gamedev - *Learning C#*
 - IBM Quantum Challenge Fall 2021 - [`IQC-Fall-2021`](https://github.com/PNGNS-Marekos1111/IQC-Fall-2021)
 - Tanki Online Container Simulator - [`ContainerSim`](https://github.com/PNGNS-Marekos1111/PNGNS-Marekos1111)
