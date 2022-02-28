@@ -25,7 +25,7 @@ Previously implemented a Quantum Convolutional Neural Network for Efficient Imag
     <a href="https://max-c.medium.com" rel="nofollow noreferrer">
       Medium
     </a> &nbsp;
-    <a href="https://ratings.tankionline.com/Marekos1111" rel="nofollow noreferrer">
+    <a href="https://ratings.tankionline.com/B_L_4_C_K_4_N_G_E_L" rel="nofollow noreferrer">
       Tanki Online
     </a> &nbsp;
   </p>
@@ -51,7 +51,7 @@ Previously implemented a Quantum Convolutional Neural Network for Efficient Imag
 
 ---
 
-[![PNGNS-Marekos1111's GitHub stats](https://github-readme-stats.vercel.app/api?username=B-L-4-C-K-4-N-G-E-L&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![PNGNS-Marekos1111's GitHub stats](https://github-readme-stats.vercel.app/api?username=B-L-4-C-K-4-N-G-E-L&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats). 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=B-L-4-C-K-4-N-G-E-L&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 <html>
