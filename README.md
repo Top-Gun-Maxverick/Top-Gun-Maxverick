@@ -1,5 +1,5 @@
 # HELLO THERE! 👋
-### I'm B_L_4_C_K_4_N_G_E_L
+### I'm 412-Sea-Island-South
 
 > #### Programmer, Pianist, Pro Tanki Player, Procrastinator, Prelude Student.
 > **TS Clan:** @Penguins \[PNGNS\]
