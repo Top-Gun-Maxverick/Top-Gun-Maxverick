@@ -1,13 +1,15 @@
 # HELLO THERE! 👋
-### I'm Maxveric
+### I'm Captain Maxverick. I fly F18s and SR72 Darkstars in MSFS.
+*Don't think, just do*   
+*It's not the plane. It's the pilot.*      
 
-> #### Programmer, Pianist and Procrastinator
+> #### Programmer, Pianist, Public Transit Enthusiast and Procrastinator
 
 ### More Detailed About Me
 Innovate Alumni at [The Knowledge Society](https://tks.world), Vancouver 2020-2021.  
 Interested in **Quantum Computing ⚛️**, **Blockchain/Cryptocurrencies 💵**, **Machine Learning + AI 🤖**, and **Aviation 🚀**.  
 Worked on a Quantum Generative Adversarial Neural Network with as part of Asipiring Scholars Directed Research Program.
-Paper accepted pending formaat changes + revision; working on upgrading QGAN to QGraphGAN
+Paper accepted for publishing and will be released in early Jan 2023 + revision; working on upgrading QGAN to QGraphGAN
 Previously implemented a Quantum Convolutional Neural Network for Efficient Image Recognition.  
 
 ### Socials
