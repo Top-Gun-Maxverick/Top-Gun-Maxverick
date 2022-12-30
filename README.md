@@ -9,7 +9,7 @@
 Innovate Alumni at [The Knowledge Society](https://tks.world), Vancouver 2020-2021.  
 Interested in **Quantum Computing ⚛️**, **Blockchain/Cryptocurrencies 💵**, **Machine Learning + AI 🤖**, and **Aviation 🚀**.  
 Worked on a Quantum Generative Adversarial Neural Network with as part of Asipiring Scholars Directed Research Program.
-Paper accepted for publishing and will be released in early Jan 2023 + revision; working on upgrading QGAN to QGraphGAN
+Paper accepted for publishing and will be released in early Jan 2023 + revision; working on upgrading QGAN to QGraphGAN.   
 Previously implemented a Quantum Convolutional Neural Network for Efficient Image Recognition.  
 
 ### Socials
@@ -27,6 +27,7 @@ Previously implemented a Quantum Convolutional Neural Network for Efficient Imag
 
 ### Previous Project(s)
 - Quantum Generative Adversarial Neural Networks - [`ASDRP-QGAN`](https://github.com/dssikdar/asdrp_QGAN)
+- Quantum Generative Adversarial Neural Networks #2 - [`Graph-QGAN`](https://github.com/adelly13/Graph-QGAN)
 
 ### Technology I use
 
