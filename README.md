@@ -25,6 +25,9 @@ Previously implemented a Quantum Convolutional Neural Network for Efficient Imag
   </p>
 </html>
 
+### Current Project
+- Quantum Graph Generative Adversarial Neural Network - [`QNetGAN`](https://github.com/Top-Gun-Maxverick/QNetGAN)
+
 ### Previous Project(s)
 - Quantum Generative Adversarial Neural Networks - [`ASDRP-QGAN`](https://github.com/dssikdar/asdrp_QGAN)
 - Quantum Generative Adversarial Neural Networks #2 - [`Graph-QGAN`](https://github.com/adelly13/Graph-QGAN)
