@@ -8,8 +8,10 @@
 ### More Detailed About Me
 Innovate Alumni at [The Knowledge Society](https://tks.world), Vancouver 2020-2021.  
 Interested in **Quantum Computing ⚛️**, **Blockchain/Cryptocurrencies 💵**, **Machine Learning + AI 🤖**, and **Aviation 🚀**.  
-Worked on a Quantum Generative Adversarial Neural Network with as part of Asipiring Scholars Directed Research Program.
-Paper accepted for publishing and will be released in early Jan 2023 + revision; working on upgrading QGAN to QGraphGAN.   
+Working on a Quantum Graph Generative Adversarial Neural Network with as part of Asipiring Scholars Directed Research Program.
+Paper accepted published in Jan 2023 availabla [here](https://emerginginvestigators.org/articles/22-143)
+Presented at the West Coast Biological Sciences Undergraduate Research Conference April 2023 @ Loyola Marymount University
+Will present at IEEE Quantum Week 2-23 @ Bellevue, Washington
 Previously implemented a Quantum Convolutional Neural Network for Efficient Image Recognition.  
 
 ### Socials
