@@ -8,16 +8,16 @@
 ### More Detailed About Me
 - Innovate Alumni at [The Knowledge Society](https://tks.world), Vancouver 2020-2021.  
 - Interested in **Quantum Computing ⚛️**, **Blockchain/Cryptocurrencies 💵**, **Machine Learning + AI 🤖**, and **Aviation 🚀**.  
-- Working on a Quantum Graph Generative Adversarial Neural Network with as part of Asipiring Scholars Directed Research Program.  
-- Paper accepted published in Jan 2023 availabla [here](https://emerginginvestigators.org/articles/22-143)
-Presented at the West Coast Biological Sciences Undergraduate Research Conference April 2023 @ Loyola Marymount University       
-- Will present at IEEE Quantum Week 2-23 @ Bellevue, Washington       
+- Working on a Quantum Graph Generative Adversarial Neural Network (v3) with as part of Asipiring Scholars Directed Research Program.  
+- Paper accepted published in Jan 2023 available [here](https://emerginginvestigators.org/articles/22-143)
+- Presented at the West Coast Biological Sciences Undergraduate Research Conference April 2023 @ Loyola Marymount University       
+- Presented at IEEE Quantum Week Sept 2023 @ Bellevue, Washington       
 - Previously implemented a Quantum Convolutional Neural Network for Efficient Image Recognition.  
 
 ### Socials
 <html>
   <p>
-    <a href="https://www.linkedin.com/in/max-cui-p18051/" rel="nofollow noreferrer">
+    <a href="https://www.linkedin.com/in/physics-cat/" rel="nofollow noreferrer">
       <img src = "https://i.stack.imgur.com/gVE0j.png" alt="linkedin">
         LinkedIn
     </a> &nbsp;
