@@ -48,7 +48,3 @@
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Top-Gun-Maxverick&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats). 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Top-Gun-Maxverick&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
-<html>
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="24201010-2cab-4c45-843b-be33684fb261" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-</html>
